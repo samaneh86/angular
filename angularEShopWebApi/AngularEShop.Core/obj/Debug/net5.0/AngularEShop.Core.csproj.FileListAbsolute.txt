@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\bin\Debug\net5.0\AngularEShop.Core.deps.json
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\bin\Debug\net5.0\AngularEShop.Core.dll
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\bin\Debug\net5.0\ref\AngularEShop.Core.dll
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\bin\Debug\net5.0\AngularEShop.Core.pdb
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\AngularEShop.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\AngularEShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\AngularEShop.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\AngularEShop.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\AngularEShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\AngularEShop.Core.dll
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\ref\AngularEShop.Core.dll
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\obj\Debug\net5.0\AngularEShop.Core.pdb
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\bin\Debug\net5.0\AngularEShop.DataLayer.dll
+C:\Users\ASUS\Desktop\EShopAngularProject\angularEShopWebApi\AngularEShop.Core\bin\Debug\net5.0\AngularEShop.DataLayer.pdb

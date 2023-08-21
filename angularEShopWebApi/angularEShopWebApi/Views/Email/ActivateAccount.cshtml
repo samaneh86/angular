@@ -1,0 +1,8 @@
+﻿@model AngularEShop.DataLayer.Entities.Account.User
+
+<div style="text-align:center;padding:10px;border:1px solid black;box-shadow:10px 10px 30px gray;border-radius:10px">
+    <h1>ایمیل فعالسازی</h1>
+    </hr>
+    <p style="font-size:20px">آقا/ خانم @Model.FirstName+" "+@Model.LastName برای فعالسازی ایمیل خود روی لینک زیر کلیک کنید</p>
+    <a href="https://localhost:4200/activate-account/@Model.EmailActivateCode" style="font-size:24px;color:green;text-shadow:10px 10px 40px gray;text-decoration:none">فعالسازی</a>
+</div>
